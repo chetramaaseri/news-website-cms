@@ -6,7 +6,7 @@ Features:
 1. All Pages and directories are save ie. no one can load page without login
 2. Everyting is Dynamic via MySQL Database
 3. Admin can add or change anything easily
-Admin->
+Admin:
 1. Add or delete user
 2. Add or delete category
 3. Add or delete anyone's post
@@ -14,11 +14,11 @@ Admin->
 5. Edit Post and Category
 6. category and user page is hidden from normal user
 7. Pagination on every page
-User->
+User:
 1. Add New Post to website
 2. edit or delete own post only
 3. will not able to add or delete user & category
-Viewer->
+Viewer:
 1. Latest news on top
 2. only available category shown on ribben
 3. Search News by Author
