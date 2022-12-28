@@ -1,6 +1,6 @@
 # news-website-cms
-Project is Live on http://devworld-news.epizy.com/
-And CMS is Live at http://devworld-news-cms.epizy.com/ (username|pass -> admin|admin & user|user)
+Project is Live on https://devworld-news.epizy.com/
+And CMS is Live at https://devworld-news-cms.epizy.com/ (username|pass -> admin|admin & user|user)
 
 Features:
 1. All Pages and directories are save ie. no one can load page without login
